@@ -1,0 +1,88 @@
+.navbutton {
+
+    width: 135px;
+    height: 42px;
+    background: #2A4365;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.navbutton-text {
+    width: 63px;
+    height: 19px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    color: #FFFCFE;
+
+}
+
+.navbutton-logo {
+    font-size: 20px;
+}
+
+.nav-pagetitle {
+
+    width: 69px;
+    height: 19px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    color: #2C5282;
+}
+
+.nav-created {
+
+    width: 57px;
+    height: 19px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    color: #2C5282;
+}
+
+.nav-status {
+
+    width: 47px;
+    height: 19px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    color: #2C5282;
+
+}
+
+.nav-author {
+
+    width: 49px;
+    height: 19px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    color: #2C5282;
+}
+
+.nav-container {
+    display: flex;
+    align-items: center;
+    width: 80%;
+}
+
+.border {
+    width: 840px;
+    height: 0px;
+    border: 1px solid #E2E8F0;
+
+}
